@@ -1,0 +1,6 @@
+[email]
+    smtp_host = smtp.mandrillapp.com
+    smtp_username = something@something.com
+    smtp_password = PASSWORD_OR_API_KEY
+    email_from = something@something.com
+    email_to = something@something.com
