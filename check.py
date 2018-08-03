@@ -22,9 +22,9 @@ class App:
         self.test_sites = (
             ('classic_catalog', 'https://classic.cincinnatilibrary.org/'),
             ('encore', 'https://catalog.cincinnatilibrary.org/iii/encore/')
-            ,
+            # ,
             # here are some other test sites we can use
-            ('status_500', 'https://httpstat.us/500'),
+            # ('status_500', 'https://httpstat.us/500'),
             # ('status_200', 'https://httpstat.us/200'),
             # ('site_not_exists', 'https://blakdjfkjdkajfdklfjkdsjfghghadkjklerjerjekfjdfkjd.com'),
             # ('expired_ssl', 'https://expired.badssl.com/')
